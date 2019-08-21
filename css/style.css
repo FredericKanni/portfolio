@@ -14,7 +14,7 @@
 
 
 .profil{
-    border-radius: 20%;
+    border-radius: 50%;
 
    
 }
@@ -60,4 +60,18 @@
   
   .sticky + .content {
     padding-top: 60px;
+  }
+
+
+
+
+
+
+
+
+
+  #example1 {
+    border: 2px solid red;
+    padding: 10px;
+    border-radius: 25px;
   }
